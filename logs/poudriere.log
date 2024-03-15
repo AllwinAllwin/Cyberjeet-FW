@@ -1,0 +1,9 @@
+>>> Creating poudriere.conf
+>>> Creating jail Cyberjeet__amd64, it may take some time... [00:00:00] Creating Cyberjeet__amd64 fs at /usr/local/poudriere/jails/Cyberjeet__amd64... done
+[00:00:00] Checking out the sources with git+file...fatal: repository '/freebsd-src.git' does not exist
+[0;31m[00:00:00] [0;0m[0;31mError:[0;0m  fail[0;0m
+[00:00:00] Error while creating jail, cleaning up.
+[00:00:00] Removing Cyberjeet__amd64 jail... done
+[00:00:00] Cleaning Cyberjeet__amd64 data... done
+
+>>> ERROR: Error creating jail Cyberjeet__amd64, aborting...
